@@ -1,0 +1,22 @@
+h1 {
+	color: blue;
+	font-family: roboto;
+	text-align: center;
+}
+h2 ~ ul {
+    font-weight: bold;
+    background-color:red;
+    color: #fff;
+    padding: .5em;
+}
+h2 + p {
+    font-weight: bold;
+    background-color: red;
+    color: #fff;
+    padding: .5em;
+}   
+h3 {
+	color: red;
+	font-family: roboto;
+	text-align: center;
+}
